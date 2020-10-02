@@ -1,12 +1,10 @@
 # My Portfolio Website :cupid: :sparkling_heart:
 
-[![Build Status](https://travis-ci.org/ritwickdey/ritwickdey.github.io.svg?branch=development)](https://travis-ci.org/ritwickdey/ritwickdey.github.io)
-
 This is my portfolio website (SPA), designed with Adobe XD & developed with Angular.
 
 ## URL
 
-* [https://ritwickdey.github.io/ ](https://ritwickdey.github.io/) :cupid::sparkling_heart:
+* [https://singhamita22may.github.io/ ](https://singhamita22may.github.io/) :cupid::sparkling_heart:
 
 ## Tech Stuff
 - Angular 
