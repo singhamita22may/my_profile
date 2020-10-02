@@ -1,0 +1,28 @@
+<div (click)="onBackClick()" class="back-icon">
+  <app-back-icon></app-back-icon>
+</div>
+<span class="overlay"></span>
+<div class="container">
+  <div class="side1">
+    <h1 class="skill-header">ABOUT</h1>
+    <app-dp-logo height="13rem" width="13rem" class="dp-logo"></app-dp-logo>
+    <div class="text-container">
+      <p>
+        I started programming with Html,Css then I jumped to bootstrap,Javascript,Jquery for Responsive Web and Desktop
+        App development and now I am working with  Angular, React.js, React Native and Drupal.
+      </p>
+     
+    </div>
+  </div>
+  <div class="side2">
+    <div class="skill-container">
+      <h1 class="skill-header">
+        Skills
+      </h1>
+      <div *ngFor="let skill of skills">
+        <h4 class="skill-type">{{skill.type}}</h4>
+        <h4 class="skill-names">{{skill.names.join(', ')}}</h4>
+      </div>
+    </div>
+  </div>
+</div>
