@@ -5,7 +5,7 @@ export const CakeShopData: IProject = {
   name: 'Cake Shop 🎂',
   description:
     'A sample Cake Shop Website built with ASP.NET Core (Multi-Page Application)',
-  projectLink: 'https://github.com/ritwickdey/Cake-Shop',
+  projectLink: 'https://github.com/Amita Singh/Cake-Shop',
   liveUrl: null,
   isFeatured: true,
   features: [

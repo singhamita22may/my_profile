@@ -5,7 +5,7 @@ export const LiveServerWebExtensionData: IProject = {
   name: 'Live Server - Web Browser Extension ⏳',
   description: `A browser extension that helps you to live reload feature
   for dynamic content/pages`,
-  projectLink: 'https://github.com/ritwickdey/live-server-web-extension',
+  projectLink: 'https://github.com/Amita Singh/live-server-web-extension',
   liveUrl:
     'https://chrome.google.com/webstore/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj/',
   features: [

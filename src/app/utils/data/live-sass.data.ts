@@ -5,10 +5,10 @@ export const LiveSassData: IProject = {
   name: 'Live Sass Compiler - VsCode Extension 🚚',
   description:
     'Compile Sass or Scss file to CSS at realtime with live browser reload feature.',
-  projectLink: 'https://github.com/ritwickdey/vscode-live-sass-compiler',
+  projectLink: 'https://github.com/Amita Singh/vscode-live-sass-compiler',
   isFeatured: true,
   liveUrl:
-    'https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass',
+    'https://marketplace.visualstudio.com/items?itemName=Amita Singh.live-sass',
   features: [
     'Compile SASS & SCSS with live browser reload',
     'Fully customizable such as CSS Style & file ext name',

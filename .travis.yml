@@ -20,7 +20,7 @@ deploy:
   skip_cleanup: true
   github_token: $github_token
   local_dir: dist
-  email: ritwickdey@outlook.com
+  email: Amita Singh@outlook.com
   name: Ritwick Dey
   target-branch: master
   on:

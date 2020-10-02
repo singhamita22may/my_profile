@@ -5,7 +5,7 @@ export const LargeNumberFactorialData: IProject = {
   name: 'Factorial of Large Number 🌟',
   description: `A browser extension that helps you to live reload feature
   for dynamic content/pages`,
-  projectLink: 'https://github.com/ritwickdey/LargeNumberFactorialUsingC',
+  projectLink: 'https://github.com/Amita Singh/LargeNumberFactorialUsingC',
   liveUrl: null,
   features: ['Factorial of Large Number Using C'],
   tags: ['others', 'c'],

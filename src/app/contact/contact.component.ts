@@ -23,19 +23,19 @@ export class ContactComponent implements OnInit {
       },
       {
         name: 'Instagram',
-        //url: 'https://www.instagram.com/ritwickdey/',
+        //url: 'https://www.instagram.com/Amita Singh/',
         iconUrl: './assets/icons/instagram.svg'
       },
       {
         name: 'LinkedIn',
-        //url: 'https://www.linkedin.com/in/ritwickdey',
+        //url: 'https://www.linkedin.com/in/Amita Singh',
         iconUrl: './assets/icons/linkedin.svg'
       }
     ],
     work: [
       {
         name: 'GitHub',
-       // url: 'https://github.com/ritwickdey',
+       // url: 'https://github.com/Amita Singh',
         iconUrl: './assets/icons/github.svg'
       }
     ]
@@ -49,7 +49,7 @@ export class ContactComponent implements OnInit {
 
   vscodeMarketplace = {
     name: 'VSCode Extension Publisher',
-    url: 'https://marketplace.visualstudio.com/publishers/ritwickdey',
+    url: 'https://marketplace.visualstudio.com/publishers/Amita Singh',
     iconUrl: './assets/icons/vscode.svg'
   };
   ngOnInit() {}

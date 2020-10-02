@@ -5,8 +5,8 @@ export const techFestData: IProject = {
   name: 'Official Tech Fest Website 🏢',
   description: 'Official Tech Fest (2018) Website of Our College',
   isFeatured: true,
-  projectLink: 'https://github.com/ritwickdey/bgi-tech-fest-2k18',
-  liveUrl: 'https://ritwickdey.github.io/bgi-tech-fest-2k18/',
+  projectLink: 'https://github.com/Amita Singh/bgi-tech-fest-2k18',
+  liveUrl: 'https://Amita Singh.github.io/bgi-tech-fest-2k18/',
   features: [
     'No heavy CSS library such as `Bootstrap` or `Material-CSS` is used',
     'Responsive UI',

@@ -5,7 +5,7 @@ export const WeMateData: IProject = {
   name: 'We Mate 👪',
   description:
     'A simple zero level chat website made with ASP.NET Form and SQL Server as Backend service.',
-  projectLink: 'https://github.com/ritwickdey/WeMate',
+  projectLink: 'https://github.com/Amita Singh/WeMate',
   liveUrl: null,
   features: [
     'Registration Page',
